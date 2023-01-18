@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorgiDev aka Erissa Duvall.
 - 👀 I’m interested in video games, Accessibility, books (mostly fantasy/mythology and science fiction), music (very eclectic with a little bit of everything from Mongolian Death Metal to Classical Symphony), and more.
-- 🌱 I’m currently learning something new everyday, but my biggest passion is learning new things about Accessibility, Diversity/Equality/Inclusion (DEI), and how to spread awareness of the need to improve all those things.
+- 🌱 I’m always striving to learn something new everyday, but my biggest passion is learning new things about Accessibility, Diversity/Equality/Inclusion (DEI), and how to spread awareness of the need to improve all those things.
 - 💞️ I’m looking to collaborate on *not sure right now.* Maybe later I will think of somethings to collab on.
 - 📫 How to reach me:
   -  **Twitter**: [@TheCorgiDev](https://twitter.com/TheCorgiDev)
