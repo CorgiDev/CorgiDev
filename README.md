@@ -6,6 +6,7 @@
   -  **Twitter**: [@TheCorgiDev](https://twitter.com/TheCorgiDev)
   -  **Instagram**: [@CorgiDev](https://www.instagram.com/corgidev/)
   -  **LinkedIn**: [@CorgiDev](https://www.linkedin.com/in/corgidev/)
+  -  **Mastadon**: [@CorgiDev@a11y.info](https://a11y.info/@CorgiDev)
 
 <!---
 CorgiDev/CorgiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
