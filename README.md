@@ -3,7 +3,6 @@
 - 🌱 I’m always striving to learn something new everyday, but my biggest passion is learning new things about Accessibility, Diversity/Equality/Inclusion (DEI), and how to spread awareness of the need to improve all those things.
 - 💞️ I’m not sure right now about any collabs. Maybe later I will think of some things to collab on.
 - 📫 How to reach me:
-  -  **Twitter (technically X)**: [@TheCorgiDev](https://twitter.com/TheCorgiDev)
   -  **Instagram**: [@CorgiDev](https://www.instagram.com/corgidev/)
   -  **LinkedIn**: [@CorgiDev](https://www.linkedin.com/in/corgidev/)
   -  **Mastadon**: [@CorgiDev@a11y.info](https://a11y.info/@CorgiDev)
